@@ -1,0 +1,5 @@
+C:\Users\qv72\Documents\Visual Studio 2012\Projects\HelloWorldSolution\HelloWorldService\bin\Debug\HelloWorldService.dll
+C:\Users\qv72\Documents\Visual Studio 2012\Projects\HelloWorldSolution\HelloWorldService\bin\Debug\HelloWorldService.pdb
+C:\Users\qv72\Documents\Visual Studio 2012\Projects\HelloWorldSolution\HelloWorldService\obj\Debug\HelloWorldService.csprojResolveAssemblyReference.cache
+C:\Users\qv72\Documents\Visual Studio 2012\Projects\HelloWorldSolution\HelloWorldService\obj\Debug\HelloWorldService.dll
+C:\Users\qv72\Documents\Visual Studio 2012\Projects\HelloWorldSolution\HelloWorldService\obj\Debug\HelloWorldService.pdb
