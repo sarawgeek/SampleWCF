@@ -10,7 +10,7 @@ namespace HelloWorldServiceNS
     {
         public string GetMessage(string Name)
         {
-            return Name;
+            return "Service Hosted By " + Name;
         }
 
     }

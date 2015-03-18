@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldService", "HelloWorldService\HelloWorldService.csproj", "{015AE03E-88CB-45AB-A277-81C131134BE7}"
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HostDevServ", "http://localhost:56214", "{4ED9FC3F-0D14-4396-9365-FAB8E17B9B16}"
@@ -26,6 +28,8 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HostDevServ", "http://local
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldServiceClient", "HelloWorldServiceClient\HelloWorldServiceClient.csproj", "{F2ABEC92-8576-4019-B2A9-FAA9369955DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -40,6 +44,10 @@ Global
 		{4ED9FC3F-0D14-4396-9365-FAB8E17B9B16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4ED9FC3F-0D14-4396-9365-FAB8E17B9B16}.Release|Any CPU.ActiveCfg = Debug|Any CPU
 		{4ED9FC3F-0D14-4396-9365-FAB8E17B9B16}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{F2ABEC92-8576-4019-B2A9-FAA9369955DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2ABEC92-8576-4019-B2A9-FAA9369955DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2ABEC92-8576-4019-B2A9-FAA9369955DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2ABEC92-8576-4019-B2A9-FAA9369955DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

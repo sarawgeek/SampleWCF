@@ -3,3 +3,8 @@ C:\Users\qv72\Documents\Visual Studio 2012\Projects\HelloWorldSolution\HelloWorl
 C:\Users\qv72\Documents\Visual Studio 2012\Projects\HelloWorldSolution\HelloWorldService\obj\Debug\HelloWorldService.csprojResolveAssemblyReference.cache
 C:\Users\qv72\Documents\Visual Studio 2012\Projects\HelloWorldSolution\HelloWorldService\obj\Debug\HelloWorldService.dll
 C:\Users\qv72\Documents\Visual Studio 2012\Projects\HelloWorldSolution\HelloWorldService\obj\Debug\HelloWorldService.pdb
+D:\API\GIT_Repo\HelloWorldSolution\HelloWorldService\bin\Debug\HelloWorldService.dll
+D:\API\GIT_Repo\HelloWorldSolution\HelloWorldService\bin\Debug\HelloWorldService.pdb
+D:\API\GIT_Repo\HelloWorldSolution\HelloWorldService\obj\Debug\HelloWorldService.csprojResolveAssemblyReference.cache
+D:\API\GIT_Repo\HelloWorldSolution\HelloWorldService\obj\Debug\HelloWorldService.dll
+D:\API\GIT_Repo\HelloWorldSolution\HelloWorldService\obj\Debug\HelloWorldService.pdb
