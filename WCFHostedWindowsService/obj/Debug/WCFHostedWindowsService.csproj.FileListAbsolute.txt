@@ -1,0 +1,7 @@
+C:\Users\Gaurav\Google Drive\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe.config
+C:\Users\Gaurav\Google Drive\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+C:\Users\Gaurav\Google Drive\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.pdb
+C:\Users\Gaurav\Google Drive\WCFHostedWindowsService\bin\Debug\HelloWorldService.dll
+C:\Users\Gaurav\Google Drive\WCFHostedWindowsService\bin\Debug\HelloWorldService.pdb
+C:\Users\Gaurav\Google Drive\WCFHostedWindowsService\obj\Debug\WCFHostedWindowsService.exe
+C:\Users\Gaurav\Google Drive\WCFHostedWindowsService\obj\Debug\WCFHostedWindowsService.pdb

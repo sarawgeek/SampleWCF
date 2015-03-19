@@ -1,0 +1,55 @@
+﻿Installing assembly 'C:\Users\Gaurav\Google Drive\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Gaurav\Google Drive\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
+   assemblypath = C:\Users\Gaurav\Google Drive\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+Installing service WCFWindowsServiceSample...
+Service WCFWindowsServiceSample has been successfully installed.
+Creating EventLog source WCFWindowsServiceSample in log Application...
+Committing assembly 'C:\Users\Gaurav\Google Drive\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Gaurav\Google Drive\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
+   assemblypath = C:\Users\Gaurav\Google Drive\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+Uninstalling assembly 'C:\Users\Gaurav\Google Drive\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Gaurav\Google Drive\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
+   assemblypath = C:\Users\Gaurav\Google Drive\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+Removing EventLog source WCFWindowsServiceSample.
+Service WCFWindowsServiceSample is being removed from the system...
+Service WCFWindowsServiceSample was successfully removed from the system.
+Installing assembly 'C:\Users\Gaurav\Google Drive\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Gaurav\Google Drive\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
+   assemblypath = C:\Users\Gaurav\Google Drive\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+Installing service WCFWindowsServiceSample...
+Service WCFWindowsServiceSample has been successfully installed.
+Creating EventLog source WCFWindowsServiceSample in log Application...
+Committing assembly 'C:\Users\Gaurav\Google Drive\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Gaurav\Google Drive\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
+   assemblypath = C:\Users\Gaurav\Google Drive\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+Uninstalling assembly 'C:\Users\Gaurav\Google Drive\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Gaurav\Google Drive\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
+   assemblypath = C:\Users\Gaurav\Google Drive\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+Removing EventLog source WCFWindowsServiceSample.
+Service WCFWindowsServiceSample is being removed from the system...
+Service WCFWindowsServiceSample was successfully removed from the system.
+Installing assembly 'C:\Users\Gaurav\Google Drive\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Gaurav\Google Drive\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
+   assemblypath = C:\Users\Gaurav\Google Drive\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+Installing service WCFWindowsServiceSample...
+Creating EventLog source WCFWindowsServiceSample in log Application...
+Rolling back assembly 'C:\Users\Gaurav\Google Drive\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Gaurav\Google Drive\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
+   assemblypath = C:\Users\Gaurav\Google Drive\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+Restoring event log to previous state for source WCFWindowsServiceSample.
