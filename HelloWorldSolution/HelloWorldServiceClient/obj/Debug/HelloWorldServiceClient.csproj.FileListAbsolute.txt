@@ -1,0 +1,6 @@
+D:\API\GIT_Repo\HelloWorldSolution\HelloWorldServiceClient\obj\Debug\HelloWorldServiceClient.csprojResolveAssemblyReference.cache
+D:\API\GIT_Repo\HelloWorldSolution\HelloWorldServiceClient\bin\Debug\HelloWorldServiceClient.exe.config
+D:\API\GIT_Repo\HelloWorldSolution\HelloWorldServiceClient\bin\Debug\HelloWorldServiceClient.exe
+D:\API\GIT_Repo\HelloWorldSolution\HelloWorldServiceClient\bin\Debug\HelloWorldServiceClient.pdb
+D:\API\GIT_Repo\HelloWorldSolution\HelloWorldServiceClient\obj\Debug\HelloWorldServiceClient.exe
+D:\API\GIT_Repo\HelloWorldSolution\HelloWorldServiceClient\obj\Debug\HelloWorldServiceClient.pdb

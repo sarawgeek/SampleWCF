@@ -1,0 +1,5 @@
+D:\API\GIT_Repo\HelloWorldSolution\HelloWorldService\bin\Release\HelloWorldService.dll
+D:\API\GIT_Repo\HelloWorldSolution\HelloWorldService\bin\Release\HelloWorldService.pdb
+D:\API\GIT_Repo\HelloWorldSolution\HelloWorldService\obj\Release\HelloWorldService.csprojResolveAssemblyReference.cache
+D:\API\GIT_Repo\HelloWorldSolution\HelloWorldService\obj\Release\HelloWorldService.dll
+D:\API\GIT_Repo\HelloWorldSolution\HelloWorldService\obj\Release\HelloWorldService.pdb
