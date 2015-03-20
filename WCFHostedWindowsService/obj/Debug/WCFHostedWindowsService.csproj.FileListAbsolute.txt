@@ -5,3 +5,9 @@ C:\Users\Gaurav\Google Drive\WCFHostedWindowsService\bin\Debug\HelloWorldService
 C:\Users\Gaurav\Google Drive\WCFHostedWindowsService\bin\Debug\HelloWorldService.pdb
 C:\Users\Gaurav\Google Drive\WCFHostedWindowsService\obj\Debug\WCFHostedWindowsService.exe
 C:\Users\Gaurav\Google Drive\WCFHostedWindowsService\obj\Debug\WCFHostedWindowsService.pdb
+C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe.config
+C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.pdb
+C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\obj\Debug\WCFHostedWindowsService.csprojResolveAssemblyReference.cache
+C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\obj\Debug\WCFHostedWindowsService.exe
+C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\obj\Debug\WCFHostedWindowsService.pdb

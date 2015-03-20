@@ -18,9 +18,9 @@ namespace WCFHostedWindowsService
         public ProjectInstaller()
         {
             process = new ServiceProcessInstaller();
-            process.Account = ServiceAccount.User;
+            process.Account = ServiceAccount.LocalSystem;
             service = new ServiceInstaller();
-            service.ServiceName = "WCFWindowsServiceSample"; service.Description = "Sample Service By Gaurav";
+            service.ServiceName = "WCFHelloService"; service.Description = "Sample Service By Gaurav";
             Installers.Add(process);
             Installers.Add(service);
         }

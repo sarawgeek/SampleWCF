@@ -30,7 +30,7 @@ namespace WCFHostedWindowsService
             {
                 serviceHost.Close();
             }
-            serviceHost = new ServiceHost(typeof(WCFHostedWindowsService));
+            serviceHost = new ServiceHost(typeof(HelloWorldServiceNS.HelloWorldService));
             serviceHost.Open();
 
         }

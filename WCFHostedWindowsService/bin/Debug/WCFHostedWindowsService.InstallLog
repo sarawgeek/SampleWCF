@@ -53,3 +53,294 @@ Affected parameters are:
    logfile = C:\Users\Gaurav\Google Drive\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
    assemblypath = C:\Users\Gaurav\Google Drive\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
 Restoring event log to previous state for source WCFWindowsServiceSample.
+Installing assembly 'C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
+   assemblypath = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+Installing service WCFWindowsServiceSample...
+Service WCFWindowsServiceSample has been successfully installed.
+Creating EventLog source WCFWindowsServiceSample in log Application...
+Committing assembly 'C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
+   assemblypath = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+Uninstalling assembly 'C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
+   assemblypath = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+Removing EventLog source WCFWindowsServiceSample.
+Service WCFWindowsServiceSample is being removed from the system...
+Service WCFWindowsServiceSample was successfully removed from the system.
+Installing assembly 'C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
+   assemblypath = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+Installing service WCFWindowsServiceSample...
+Service WCFWindowsServiceSample has been successfully installed.
+Creating EventLog source WCFWindowsServiceSample in log Application...
+Committing assembly 'C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
+   assemblypath = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+Uninstalling assembly 'C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
+   assemblypath = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+Removing EventLog source WCFWindowsServiceSample.
+Service WCFWindowsServiceSample is being removed from the system...
+Service WCFWindowsServiceSample was successfully removed from the system.
+Attempt to stop service WCFWindowsServiceSample.
+Installing assembly 'C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
+   assemblypath = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+Installing service WCFWindowsServiceSample...
+Service WCFWindowsServiceSample has been successfully installed.
+Creating EventLog source WCFWindowsServiceSample in log Application...
+Committing assembly 'C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
+   assemblypath = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+Uninstalling assembly 'C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
+   assemblypath = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+Removing EventLog source WCFWindowsServiceSample.
+Service WCFWindowsServiceSample is being removed from the system...
+Service WCFWindowsServiceSample was successfully removed from the system.
+Installing assembly 'C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
+   assemblypath = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+   logtoconsole = 
+Installing service WCFWindowsServiceSample...
+Service WCFWindowsServiceSample has been successfully installed.
+Creating EventLog source WCFWindowsServiceSample in log Application...
+Committing assembly 'C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
+   assemblypath = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
+   assemblypath = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+Removing EventLog source WCFWindowsServiceSample.
+Service WCFWindowsServiceSample is being removed from the system...
+Service WCFWindowsServiceSample was successfully removed from the system.
+Installing assembly 'C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
+   assemblypath = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+   logtoconsole = 
+Installing service WCFWindowsServiceSample...
+Service WCFWindowsServiceSample has been successfully installed.
+Creating EventLog source WCFWindowsServiceSample in log Application...
+Committing assembly 'C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
+   assemblypath = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
+   assemblypath = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+Removing EventLog source WCFWindowsServiceSample.
+Service WCFWindowsServiceSample is being removed from the system...
+Service WCFWindowsServiceSample was successfully removed from the system.
+Installing assembly 'C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
+   assemblypath = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+   logtoconsole = 
+Installing service WCFWindowsServiceSample...
+Service WCFWindowsServiceSample has been successfully installed.
+Creating EventLog source WCFWindowsServiceSample in log Application...
+Committing assembly 'C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
+   assemblypath = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
+   assemblypath = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+Removing EventLog source WCFWindowsServiceSample.
+Service WCFWindowsServiceSample is being removed from the system...
+Service WCFWindowsServiceSample was successfully removed from the system.
+Installing assembly 'C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
+   assemblypath = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+   logtoconsole = 
+Installing service WCFWindowsServiceSample...
+Service WCFWindowsServiceSample has been successfully installed.
+Creating EventLog source WCFWindowsServiceSample in log Application...
+Committing assembly 'C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
+   assemblypath = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
+   assemblypath = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+Removing EventLog source WCFWindowsServiceSample.
+Service WCFWindowsServiceSample is being removed from the system...
+Service WCFWindowsServiceSample was successfully removed from the system.
+Installing assembly 'C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
+   assemblypath = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+   logtoconsole = 
+Installing service WCFWindowsServiceSample...
+Service WCFWindowsServiceSample has been successfully installed.
+Creating EventLog source WCFWindowsServiceSample in log Application...
+Committing assembly 'C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
+   assemblypath = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
+   assemblypath = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+Removing EventLog source WCFWindowsServiceSample.
+Service WCFWindowsServiceSample is being removed from the system...
+Service WCFWindowsServiceSample was successfully removed from the system.
+Attempt to stop service WCFWindowsServiceSample.
+Installing assembly 'C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
+   assemblypath = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+   logtoconsole = 
+Installing service WCFWindowsServiceSample...
+Service WCFWindowsServiceSample has been successfully installed.
+Creating EventLog source WCFWindowsServiceSample in log Application...
+Committing assembly 'C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
+   assemblypath = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
+   assemblypath = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+Removing EventLog source WCFWindowsServiceSample.
+Service WCFWindowsServiceSample is being removed from the system...
+Service WCFWindowsServiceSample was successfully removed from the system.
+Attempt to stop service WCFWindowsServiceSample.
+Installing assembly 'C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
+   assemblypath = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+   logtoconsole = 
+Installing service WCFWindowsServiceSample...
+Service WCFWindowsServiceSample has been successfully installed.
+Creating EventLog source WCFWindowsServiceSample in log Application...
+Committing assembly 'C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
+   assemblypath = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
+   assemblypath = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+Removing EventLog source WCFWindowsServiceSample.
+Service WCFWindowsServiceSample is being removed from the system...
+Service WCFWindowsServiceSample was successfully removed from the system.
+Attempt to stop service WCFWindowsServiceSample.
+Installing assembly 'C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
+   assemblypath = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+   logtoconsole = 
+Installing service WCFHelloService...
+Service WCFHelloService has been successfully installed.
+Creating EventLog source WCFHelloService in log Application...
+Committing assembly 'C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
+   assemblypath = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
+   assemblypath = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+Removing EventLog source WCFHelloService.
+Service WCFHelloService is being removed from the system...
+Service WCFHelloService was successfully removed from the system.
+Attempt to stop service WCFHelloService.
+Installing assembly 'C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
+   assemblypath = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+   logtoconsole = 
+Installing service WCFHelloService...
+Service WCFHelloService has been successfully installed.
+Creating EventLog source WCFHelloService in log Application...
+Committing assembly 'C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
+   assemblypath = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
+   assemblypath = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+Removing EventLog source WCFHelloService.
+Service WCFHelloService is being removed from the system...
+Service WCFHelloService was successfully removed from the system.
+Attempt to stop service WCFHelloService.
+Installing assembly 'C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
+   assemblypath = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+   logtoconsole = 
+Installing service WCFHelloService...
+Service WCFHelloService has been successfully installed.
+Creating EventLog source WCFHelloService in log Application...
+Committing assembly 'C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.InstallLog
+   assemblypath = C:\Users\qv72\Source\Repos\SampleWCF\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+   logtoconsole = 
